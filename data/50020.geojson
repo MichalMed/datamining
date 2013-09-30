@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
                                                                                 
 "features": [
-{ "type": "Feature", "id": 0, "properties": { "gml_id": "AD.27028381", "localId": "AD.27028381", "namespace": "CZ-00025712-CUZK_AD", "alternativeIdentifier": "č.p. 360, 78816 Petrov nad Desnou", "specification": "entrance", "method": "byAdministrator", "default": "true", "designator": "(2:č.p.,360)", "type": "(2:buildingIdentifierPrefix,buildingIdentifier)", "level": "siteLevel", "validFrom": "2013-07-08T15:10:51Z", "beginLifespanVersion": "2013-07-08T15:10:51Z" }, "geometry": { "type": "Point", "coordinates": [ 50.020353, 17.072835 ] } }
+{ "type": "Feature", "id": 0, "properties": { "gml_id": "AD.27028381", "localId": "AD.27028381", "namespace": "CZ-00025712-CUZK_AD", "alternativeIdentifier": "č.p. 360, 78816 Petrov nad Desnou", "specification": "entrance", "method": "byAdministrator", "default": "true", "designator": "(2:č.p.,360)", "type": "(2:buildingIdentifierPrefix,buildingIdentifier)", "level": "siteLevel", "validFrom": "2013-07-08T15:10:51Z", "beginLifespanVersion": "2013-07-08T15:10:51Z" }, "geometry": { "type": "Point", "coordinates": [ 17.072835, 50.020353 ] } }
 ,
 { "type": "Feature", "id": 1, "properties": { "gml_id": "AD.8054878", "localId": "AD.8054878", "namespace": "CZ-00025712-CUZK_AD", "alternativeIdentifier": "č.p. 156, 78816 Petrov nad Desnou", "specification": "entrance", "method": "byAdministrator", "default": "true", "designator": "(2:č.p.,156)", "type": "(2:buildingIdentifierPrefix,buildingIdentifier)", "level": "siteLevel", "validFrom": "2013-07-08T15:10:51Z", "beginLifespanVersion": "2013-07-08T15:10:51Z" }, "geometry": { "type": "Point", "coordinates": [ 50.016375, 17.064888 ] } }
 ,
