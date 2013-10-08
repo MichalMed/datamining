@@ -1,24 +1,6 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "localId": "", "namespace": "", "language": "", "nativeness": "", "nameStatus": "", "sourceOfName": "", "text": "", "script": "", "level": "1stOrder", "validFrom": "" }, "geometry": null }
-,
-{ "type": "Feature", "properties": { "localId": "", "namespace": "", "language": "", "nativeness": "", "nameStatus": "", "sourceOfName": "", "text": "", "script": "", "level": "4thOrder", "validFrom": "2013-08-02T07:37:16Z" }, "geometry": null }
-{
-"type": "FeatureCollection",
-"features": [
-{ "type": "Feature", "properties": { "localId": "", "namespace": "", "validFrom": "2013-07-08T15:10:51Z", "language": "", "nativeness": "", "nameStatus": "", "sourceOfName": "", "text": "", "script": "" }, "geometry": null }
-,
-{ "type": "Feature", "properties": { "localId": "", "namespace": "", "validFrom": "2013-07-08T15:10:51Z", "language": "", "nativeness": "", "nameStatus": "", "sourceOfName": "", "text": "", "script": "" }, "geometry": null }
-{
-"type": "FeatureCollection",
-"features": [
-{ "type": "Feature", "properties": { "localId": "", "namespace": "", "language": "", "nativeness": "", "nameStatus": "", "sourceOfName": "", "text": "", "script": "", "postCode": 78814 }, "geometry": null }
-,
-{ "type": "Feature", "properties": { "localId": "", "namespace": "", "language": "", "nativeness": "", "nameStatus": "", "sourceOfName": "", "text": "", "script": "", "postCode": 78816 }, "geometry": null }
-{
-"type": "FeatureCollection",
-"features": [
 { "type": "Feature", "properties": { "localId": "", "namespace": "", "alternativeIdentifier": "č.p. 360, 78816 Petrov nad Desnou", "specification": "", "method": "", "default": "", "designator": "", "type": "", "level": "", "validFrom": "2013-07-08T15:10:51Z", "beginLifespanVersion": "2013-07-08T15:10:51Z" }, "geometry": { "type": "Point", "coordinates": [ 17.072835, 50.020353 ] } }
 ,
 { "type": "Feature", "properties": { "localId": "", "namespace": "", "alternativeIdentifier": "č.p. 156, 78816 Petrov nad Desnou", "specification": "", "method": "", "default": "", "designator": "", "type": "", "level": "", "validFrom": "2013-07-08T15:10:51Z", "beginLifespanVersion": "2013-07-08T15:10:51Z" }, "geometry": { "type": "Point", "coordinates": [ 17.064888, 50.016375 ] } }
